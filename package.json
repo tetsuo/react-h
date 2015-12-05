@@ -1,0 +1,25 @@
+{
+  "name": "react-h",
+  "version": "0.1.0",
+  "description": "hyperscript for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tetsuo/react-h.git"
+  },
+  "keywords": [],
+  "author": "Onur Gunduz <ogunduz@gmail.com> (http://onurgunduz.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tetsuo/react-h/issues"
+  },
+  "homepage": "https://github.com/tetsuo/react-h#readme",
+  "dependencies": {
+    "browser-split": "0.0.1",
+    "react": "^0.14.3",
+    "x-is-array": "^0.1.0"
+  }
+}
